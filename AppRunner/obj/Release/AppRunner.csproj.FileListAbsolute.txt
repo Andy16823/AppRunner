@@ -1,0 +1,16 @@
+C:\Users\andy1\source\repos\AppRunner\AppRunner\bin\Release\AppRunner.exe.config
+C:\Users\andy1\source\repos\AppRunner\AppRunner\bin\Release\AppRunner.exe
+C:\Users\andy1\source\repos\AppRunner\AppRunner\bin\Release\AppRunner.pdb
+C:\Users\andy1\source\repos\AppRunner\AppRunner\bin\Release\Newtonsoft.Json.dll
+C:\Users\andy1\source\repos\AppRunner\AppRunner\bin\Release\Newtonsoft.Json.xml
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.csproj.AssemblyReference.cache
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.CreateProfileForm.resources
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.Form1.resources
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.Properties.Resources.resources
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.csproj.GenerateResource.cache
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.csproj.CoreCompileInputs.cache
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.csproj.CopyComplete
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.exe
+C:\Users\andy1\source\repos\AppRunner\AppRunner\obj\Release\AppRunner.pdb
+C:\Users\andy1\source\repos\AppRunner\AppRunner\bin\Release\Legal\License Newtonsoft Json.md
